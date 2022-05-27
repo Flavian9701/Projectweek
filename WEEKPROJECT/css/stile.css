@@ -1,0 +1,91 @@
+/*
+Mi dispiace per il risultato ottenuto purtroppo credo di non 
+conoscere abbastanza i selettori.
+ho avuto difficolta nel selezionare le parti di html per formattarle
+ho anche provato ad assegnare delle classi per individuare singolarmente i contenuti
+
+
+*/
+
+
+
+
+
+
+
+html {
+    font-size: 65%;
+}
+
+h2 {
+    color: rgb(16, 157, 157);
+    font-weight: bold;
+    font-size: 4rem;
+    font-weight: bold;
+}
+body main section {
+    margin-top: 50px;
+}
+body main section article {
+    margin-top: 50px;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.7rem;
+    text-align: center;
+    padding: 15px;
+    line-height: 1.7;
+}
+header {
+    background-color: black;
+}
+section.prima {
+  background-image: url('banner.jpg');
+
+}
+button{
+    background-color: #f04c2f;
+    height: 60px;
+    width: 150px;
+    border-radius: 10px 10px 10px 10px;
+    color: white;
+}
+section.terza {
+   background-color: #f04c2f;
+   color: white;
+}
+section.terza h2{
+    color: white;
+}
+section.seconda img {
+    -moz-border-radius: 180px;
+    -webkit-border-radius: 180px;
+    border-radius: 180px;
+}
+section.quarta {
+    border-left: 1px;
+    border-right: 1px;
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+
+
+
+/*salto direttamente al footer*/
+
+
+
+footer {
+    background-color: #25a2c3;
+    color: white;
+    font-size: 17px;
+}
+footer h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
