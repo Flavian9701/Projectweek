@@ -1,0 +1,90 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.8;
+    text-align: center;
+    color: #000;
+}
+
+/* HEADER */
+header {
+    background-color: white;
+    padding-top: 1.3rem;
+    box-shadow: 0px 15px 10px -15px #111;
+    
+}
+header ul li {
+    list-style: none;
+    display: inline;
+}
+h2 {
+    font-size: 3rem;
+}
+
+
+
+/* MAIN */
+
+#banner {
+	background-image: url(../images/banner.jpg);
+	background-size: cover;
+	background-position: center top;
+	background-repeat: no-repeat;
+    color: white;
+    text-align: left;
+    height: auto;
+    font-weight: bold;
+    padding: 1.5rem;
+}
+#banner h1 {
+    font-size: 4rem;
+    line-height: 1;
+    padding-top: 4rem;
+}
+#banner p {
+    margin-bottom: 1.75em;
+    font-size: 1.5rem;
+}
+#banner .pulsante {
+    font-size: 1.9rem;
+    background-color: #392f7a;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5rem 0.5rem;
+    color: white;
+}
+.back {
+    background-color: #0c0633;
+    color: white;
+    padding: 3rem;
+}
+.back button {
+    padding: 1rem;
+    background-color: #6cc1e2;
+}
+
+
+/* FOOTER */
+footer {
+    background-color: rgb(238, 238, 238);
+    text-align: left;
+    padding-left: 4rem;
+}
+
+footer ul li {
+    list-style: none;
+    display: inline;
+}
+input[type=text] {
+    width: 80%;
+    height: 4rem;
+  }
+.bottone2 {
+    width: 82%;
+    height: 4rem;
+    
+}
+/* RESPONSIVE */
